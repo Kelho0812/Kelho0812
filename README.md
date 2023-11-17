@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">My name is <strong>Jorge Costa</strong>, but online I go by <strong>Kelho</strong> and on 42 Porto as <strong>jorteixe.</strong></p>
+<p align="left">My name is <strong>Jorge Costa</strong>, but I go by <strong>Kelho</strong> online and on 42 Porto as <strong>jorteixe.</strong></p>
 
 ###
 
