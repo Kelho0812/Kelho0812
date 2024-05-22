@@ -1,12 +1,3 @@
-## ✨ Main Repositories ✨
-<p align="center" dir="auto">
-	<a href="https://github.com/Kelho0812/Piscine">
-		<img src="https://github.com/Kelho0812/Kelho0812/blob/main/Banners/Profile_Reps_Banners/Banner_Piscine.svg" width="265" style="max-width: 100%;">
-	</a>
-	<a href="https://github.com/Kelho0812/Common-Core">
-		<img src="https://github.com/Kelho0812/Kelho0812/blob/main/Banners/Profile_Reps_Banners/Banner_CommonCore.svg" width="265" style="max-width: 100%;">
-	</a>
-</p>
 <h1 align="left">Hello stranger! 👋</h1>
 
 ###
@@ -29,6 +20,17 @@
 </p>
 
 ###
+
+## ✨ Main Repositories ✨
+<p align="center" dir="auto">
+	<a href="https://github.com/Kelho0812/Piscine">
+		<img src="https://github.com/Kelho0812/Kelho0812/blob/main/Banners/Profile_Reps_Banners/Banner_Piscine.svg" width="265" style="max-width: 100%;">
+	</a>
+	<a href="https://github.com/Kelho0812/Common-Core">
+		<img src="https://github.com/Kelho0812/Kelho0812/blob/main/Banners/Profile_Reps_Banners/Banner_CommonCore.svg" width="265" style="max-width: 100%;">
+	</a>
+</p>
+
 
 <h2 align="left">Tools I use</h2>
 
