@@ -15,7 +15,7 @@
 		<li>📚 I'm currently learning C, C++ and more at the Common-Core of 42 Porto.</li>
 		<li>🧐 I'm interested in Gaming, Game Development and foreign Languages.</li>
 		<li>🎲 Fun fact: I've visited as many countries as half my age.</li>
-		<li>📫 You can reach me either through <a href="https://www.linkedin.com/in/jorgemtcosta/">Linkedin<a/> or any of my socials on the left.</li>
+		<li>📫 You can reach me either through any of my socials on the left.</li>
 	</ul> 
 </p>
 
