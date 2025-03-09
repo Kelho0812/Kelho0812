@@ -8,7 +8,7 @@
 
 Hey there, I'm Jorge AKA Kelho.
 
-Most of my professional life was in Marketing and Customer Support and I'm now looking into software development. 
+Most of my professional life was in Marketing and Customer Support, and I'm now looking into Software Development.
 
 Completed an intensive programming course in C, C++ and Python @42Porto.
 
