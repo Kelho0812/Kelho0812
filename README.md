@@ -6,11 +6,13 @@
 <p dir="auto">
 <p align="center" dir="auto">🧑‍💻</p>
 
-Seasoned professional transitioning from leadership roles in Marketing and Customer Support to a career in software development. 
+Hey there, I'm Jorge AKA Kelho.
 
-Nearing the completion of an intensive programming course with hands-on experience in C and C++, as well as a solid understanding of core computer science principles such as system programming, process management, and memory handling. 
+Most of my professional life was in Marketing and Customer Support and I'm now looking into software development. 
 
-I'm adept at problem-solving and project management, with a proven track record of leading teams and optimizing processes, and I'm eager to leverage  both my people skills and my recently acquired technical expertise to help innovative software development projects.
+Completed an intensive programming course in C, C++ and Python @42Porto.
+
+I love FOSS & the sharing of knowledge.
 
 </p>
 </div>
